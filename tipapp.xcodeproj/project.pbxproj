@@ -14,6 +14,7 @@
 		9B5E1D8D2216428C00A945AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B5E1D8B2216428C00A945AB /* LaunchScreen.storyboard */; };
 		9B5E1D982216428C00A945AB /* tipappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E1D972216428C00A945AB /* tipappTests.swift */; };
 		9B5E1DA32216428C00A945AB /* tipappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E1DA22216428C00A945AB /* tipappUITests.swift */; };
+		9B5E1DB12216543D00A945AB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E1DB02216543D00A945AB /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B5E1D9E2216428C00A945AB /* tipappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B5E1DA22216428C00A945AB /* tipappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipappUITests.swift; sourceTree = "<group>"; };
 		9B5E1DA42216428C00A945AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B5E1DB02216543D00A945AB /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9B5E1D822216428B00A945AB /* AppDelegate.swift */,
 				9B5E1D842216428B00A945AB /* ViewController.swift */,
 				9B5E1D862216428B00A945AB /* Main.storyboard */,
+				9B5E1DB02216543D00A945AB /* SettingsViewController.swift */,
 				9B5E1D892216428C00A945AB /* Assets.xcassets */,
 				9B5E1D8B2216428C00A945AB /* LaunchScreen.storyboard */,
 				9B5E1D8E2216428C00A945AB /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				9B5E1D852216428B00A945AB /* ViewController.swift in Sources */,
 				9B5E1D832216428B00A945AB /* AppDelegate.swift in Sources */,
+				9B5E1DB12216543D00A945AB /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
