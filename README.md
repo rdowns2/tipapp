@@ -1,27 +1,22 @@
-# Pre-work - *tip app*
+# *tip app*
 
 tip app is a tip calculator application for iOS.
 
 Submitted by: **Ryan Downs**
 
-Time spent: **2** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
+The following functionality is complete:
 
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] Settings page to change the default tip percentage.
 
-The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+The following features are to be implemented:
 * [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [ ] Remembering the bill amount across app restarts
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
@@ -31,13 +26,10 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Ryan Downs]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
