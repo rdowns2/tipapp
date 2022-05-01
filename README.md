@@ -1,6 +1,6 @@
-# *tip app*
+# *Tip App*
 
-tip app is a tip calculator application for iOS.
+Tip calculator application for iOS.
 
 Submitted by: **Ryan Downs**
 
@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2022] [Ryan Downs]
+    Copyright 2022 Ryan Downs
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
