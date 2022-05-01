@@ -196,13 +196,16 @@
 				TargetAttributes = {
 					9B5E1D7E2216428B00A945AB = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1130;
 					};
 					9B5E1D922216428C00A945AB = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1130;
 						TestTargetID = 9B5E1D7E2216428B00A945AB;
 					};
 					9B5E1D9D2216428C00A945AB = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1130;
 						TestTargetID = 9B5E1D7E2216428B00A945AB;
 					};
 				};
@@ -442,7 +445,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "iOS-Student.tipapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -459,7 +462,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "iOS-Student.tipapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -478,7 +481,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "iOS-Student.tipappTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tipapp.app/tipapp";
 			};
@@ -498,7 +501,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "iOS-Student.tipappTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tipapp.app/tipapp";
 			};
@@ -517,7 +520,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "iOS-Student.tipappUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = tipapp;
 			};
@@ -536,7 +539,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "iOS-Student.tipappUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = tipapp;
 			};
